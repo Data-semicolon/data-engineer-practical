@@ -1,0 +1,6 @@
+requests==2.26.0
+py-openaq==1.1.0
+boto3==1.18.56
+python-dateutil==2.8.2
+ipdb==0.13.9
+python-dotenv==0.19.0
